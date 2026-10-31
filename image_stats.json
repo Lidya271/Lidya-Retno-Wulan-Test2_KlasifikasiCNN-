@@ -1,0 +1,22 @@
+{
+  "n_sampled": 600,
+  "width": {
+    "min": 150,
+    "mean": 1274.1066666666666,
+    "max": 6144
+  },
+  "height": {
+    "min": 113,
+    "mean": 915.9066666666666,
+    "max": 4378
+  },
+  "color_modes": {
+    "RGB": 600
+  },
+  "brightness_mean": 0.4170125564249853,
+  "contrast_mean": 0.19800004032750926,
+  "corrupted_removed": 0,
+  "imbalance_ratio": 11.701754385964913,
+  "largest_class": "other_marine_organisms",
+  "smallest_class": "seaweed"
+}
