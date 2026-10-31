@@ -1,0 +1,10 @@
+tensorflow>=2.16
+torch
+transformers
+streamlit
+scikit-learn
+pandas
+numpy
+matplotlib
+seaborn
+pillow
